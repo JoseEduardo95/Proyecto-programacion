@@ -6,6 +6,11 @@ public class GUIS {
       
         Ventana4 v4 = new Ventana4();
         Ventana5 v5 = new Ventana5();
+                Ventana4 v4 = new Ventana4();
+        Ventana5 v5 = new Ventana5();
+                Ventana4 v4 = new Ventana4();
+        Ventana5 v5 = new Ventana5();        Ventana4 v4 = new Ventana4();
+        Ventana5 v5 = new Ventana5();
     }
      //yei
 }
