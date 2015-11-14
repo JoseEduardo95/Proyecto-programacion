@@ -5,6 +5,7 @@ public class GUIS {
     public static void main(String[] args) {
       
         Ventana4 v4 = new Ventana4();
+        Ventana5 v5 = new Ventana5();
     }
      //yei
 }
